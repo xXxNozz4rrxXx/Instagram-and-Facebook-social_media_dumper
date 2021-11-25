@@ -6,7 +6,11 @@ Reqruitments :
 requests
 
 ====================================
-i do not associet with anything illegal of this script 
+
+
+i do not associate with anything illegal of this script 
 i patch it for only test penetration and education proposes only
+
+
 ====================================
 i do only some fixes only thanks to xxHaskyxx <3
